@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: burlywood;
+    border: 2px dashed blue;
+    height: 20rem;
+    width: 20rem;
+    margin: 20px;
+    padding: 50px;
+    font-size: 120%;
+    text-align: center;
+}
